@@ -1,4 +1,4 @@
-# Hi there, I'm Yongshee(thanaklit sae-lu)! 👋
+# Hi there, I'm Yongshee(Mr.thanaklit sae-lu)! 👋
 
 I'm a Computer Engineering student at RMUTL Chiang Mai and a developer with a passion for bridging the gap between software and hardware. 
 
