@@ -3,7 +3,7 @@
 I'm a Computer Engineering student at RMUTL Chiang Mai and a developer with a passion for bridging the gap between software and hardware. 
 
 ## My Tech Stack & Tools
-* **Languages:** Python, Lua, C/C++ (Embedded)
+* **Languages:** Python, Lua, C/C++ ,Rust
 * **Hardware & Embedded:** ESP32, STM32, Arduino, Raspberry Pi
 * **OS & System Admin:** Kubuntu, Ubuntu Server, bash scripting
 * **Game Development:** Roblox Studio, Godot engine
